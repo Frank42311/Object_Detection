@@ -1,7 +1,9 @@
 OpenCV Algorithm Implication from Scratch.
 
 Connected Components Labeling
+
 Bounding Box Generation
+
 Color Labeling of Components
 
 Original Image
